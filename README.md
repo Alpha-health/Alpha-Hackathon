@@ -47,4 +47,4 @@ With respect to the third task, we will be looking at the potential usability of
 
 There is no fixed quantification of the importance of these components. Teams can focus on what they are specialized in. That is, if a team consists only of designers, we will evaluate the result based on the design. That said, the jury will value a balanced solution :)
 
-Note that this  data set is meant to be used for inspiration - we will not use any data from the StudentLife data set for the commercial purposes.
+Note that this  data set is meant to be used for inspiration - we will not use any data from the StudentLife data set for commercial purposes.
