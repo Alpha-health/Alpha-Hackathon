@@ -9,9 +9,11 @@ Smartphones have evolved from merely communication devices to personal devices t
 ### Dataset
 
 Dartmouth College has collected a rich data set that contains longitudinally captured mobile sensor data combined with a multitude of questionnaires and surveys focused on mental health of students. They opened it for public research.
-You may find the link to the data set here, and more information about this study here:
-
+You may find the link to the data set here:
 http://studentlife.cs.dartmouth.edu/dataset.html
+
+and more information about this study here:
+http://studentlife.cs.dartmouth.edu/
 
 NOTE THAT FOR THE COMPETITION YOU'LL BE USING A SUBSET OF THAT DATASET, which you can find here:
 
@@ -21,7 +23,7 @@ https://drive.google.com/open?id=1_60smE2A3p7JWSm5TowrUarER_J4kAPK
 
 The hackathon can be divided into three tasks:
 1. The Data Science task: (i) create a model to predict mood from phone sensor data (ii) find a way to summarize the important features (some sort of dimensionality reduction) that can be use for the user's understanding.
-2. The entrepeneurial task: think of a potential application of both the mood inference and the findings with respect to the findings on what drives mood. **Here in Alpha Health, we are about helping people optimize their wellbeing through behavior change. Therefore, the application should be tailored towards that goal: helping the user have a better life by changing toxic behaviors.**
+2. The entrepeneurial task: think of a potential application of both the mood inference and the findings with respect to the findings on what drives mood. **Here in Alpha Health, we are developing a platform for helping people optimize their wellbeing through behavior change. Therefore, the application should be tailored towards that goal: helping the user have a better life by changing toxic behaviors.**
 3. The design task: create a design that could serve as a base for the development of the aforementioned application.
 
 In order to get started, please follow these steps:
@@ -43,4 +45,6 @@ The second task requires a smart idea that both can be useful for users and rigo
 
 With respect to the third task, we will be looking at the potential usability of the idea and the attractiveness of the design from the user's perspective.
 
-There is no fix quantification of the importance of these components. Teams can focus on what they are specialized in. That is, if a team consists only of designers, we will evaluate the result based on the design. That said, the jury will value a balanced solution :)
+There is no fixed quantification of the importance of these components. Teams can focus on what they are specialized in. That is, if a team consists only of designers, we will evaluate the result based on the design. That said, the jury will value a balanced solution :)
+
+Note that this  data set is meant to be used for inspiration - we will not use any data from the StudentLife data set for the commercial purposes.
